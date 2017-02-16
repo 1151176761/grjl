@@ -1,0 +1,117 @@
+/* Base Application Styles */
+body {
+  color: #fff;
+  background: #222;
+}
+li{list-style-type: none;}
+.index img {
+  margin: 40px auto;
+  border-radius: 4px;
+  background: #fff;
+  display: block;
+}
+
+.index .notice {
+  margin: 20px auto;
+  padding: 15px 0;
+  text-align: center;
+  border: 1px solid #000;
+  border-width: 1px 0;
+  background: #666;
+}
+.gerena{
+  width:100%;
+  height:310px;
+}
+.gerenb{
+  width:890px;
+  height:310px;
+  margin:0 auto;
+}
+.jineng{
+  width:890px;
+  height:251px;
+  margin:0 auto;
+}
+.geren{
+  width:800px;
+  height:249px;
+  float:left;
+}
+.geren li{
+  width:300px;
+  height:50px;
+  float:left;
+  margin-left:25px;
+}
+.jinenga{
+  margin-left:56px;
+  line-height: 35px;
+}
+.skill{
+  width:100%;
+  height:251px;
+}
+.gong{
+  width:100%;
+  height:310px;
+  margin-top:251px;
+}
+.jingli{
+  width:890px;
+  height:360px;
+  margin:0 auto;
+}
+.jingli li{
+  width:890px;
+  height:30px;
+  float:left;
+  margin-left:25px;
+  line-height: 30px;
+}
+.jingli h3{
+  margin-left:65px;
+  margin-top:15px;
+  float:left;
+}
+.jianli{
+  width:100%;
+  height:100px;
+}
+.jianlia{
+  width:280px;
+  height:100px;
+  margin:0 auto;
+}
+.xiangmu{
+  width:100%;
+  height:251px;
+}
+.xiangmua{
+  width:890px;
+  height:460px;
+  margin:0 auto;
+}
+.xiangmua h2{
+   float:left;
+  margin-top:25px;
+}
+.xiangmub{
+  width:890px;
+  float:left;
+  margin-left:60px;
+}
+.pingjia{
+  width:100%;
+  height:251px;
+}
+.pingjiaa{
+  width:890px;
+  height:251px;
+  margin:0 auto;
+  margin-top:300px;
+}
+.pingjiab{
+  margin-left:56px;
+  line-height: 30px;
+}
