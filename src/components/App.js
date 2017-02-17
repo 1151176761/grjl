@@ -71,12 +71,20 @@ class App extends React.Component{
     return(
       <div>
       <Item />
+      <div className="content">
+        <div className="content-l">
+            <div className="content-ll">
+            </div>
+        </div>
+      <div className="content-y">
       <Info aaa={this.state.info} />
       <Skill qiuy={this.state.qiuz} />
       <Skill qiuy={this.state.jineng} />
       <Gong />
       <Xiangmu bbb={this.state.xiangmu} />
       <Pingjia ccc={this.state.ping} />
+       </div>
+      </div>
     </div>
   )
  }

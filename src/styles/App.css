@@ -21,36 +21,53 @@ li{list-style-type: none;}
 }
 .gerena{
   width:100%;
-  height:310px;
+  height:230px;
+  margin-top:-20px;
 }
 .gerenb{
-  width:890px;
-  height:310px;
+  width:690px;
+  height:230px;
   margin:0 auto;
 }
-.jineng{
-  width:890px;
-  height:251px;
-  margin:0 auto;
+.gerenb h2{
+  margin-left:90px;
+  margin-top:65px;
+  font-size:30px;
+  color:#3f3212;
 }
+
 .geren{
-  width:800px;
-  height:249px;
+  width:690px;
+  height:173px;
   float:left;
+  margin-top:10px;
 }
 .geren li{
-  width:300px;
-  height:50px;
+  width:260px;
+  height:30px;
   float:left;
-  margin-left:25px;
+  color:#4e3e2f;
+  margin-left:60px;
+}
+.jineng{
+  width:690px;
+  height:220px;
+  margin:0 auto;
+}
+.jineng h2{
+  margin-left:90px;
+  font-size:30px;
+  color:#3f3212;
 }
 .jinenga{
-  margin-left:56px;
-  line-height: 35px;
+  margin-left:95px;
+  line-height:20px;
+  color:#4e3e2f;
 }
 .skill{
   width:100%;
-  height:251px;
+  height:220px;
+  margin-top:-10px;
 }
 .gong{
   width:100%;
@@ -58,28 +75,35 @@ li{list-style-type: none;}
   margin-top:251px;
 }
 .jingli{
-  width:890px;
+  width:690px;
   height:360px;
   margin:0 auto;
 }
+.jingli h2{
+  margin-left:90px;
+  font-size:30px;
+  color:#3f3212;
+}
 .jingli li{
-  width:890px;
+  width:690px;
   height:30px;
   float:left;
-  margin-left:25px;
+  margin-left:52px;
   line-height: 30px;
+  color:#3f3212;
 }
 .jingli h3{
-  margin-left:65px;
+  margin-left:90px;
   margin-top:15px;
   float:left;
+  color:#3f3212;
 }
 .jianli{
   width:100%;
   height:100px;
 }
 .jianlia{
-  width:280px;
+  width:900px;
   height:100px;
   margin:0 auto;
 }
@@ -88,30 +112,80 @@ li{list-style-type: none;}
   height:251px;
 }
 .xiangmua{
-  width:890px;
+  width:690px;
   height:460px;
   margin:0 auto;
 }
 .xiangmua h2{
    float:left;
   margin-top:25px;
+  margin-left:90px;
+  color:#3f3212;
+  font-size:30px;
 }
 .xiangmub{
-  width:890px;
+  width:560px;
   float:left;
-  margin-left:60px;
+  color:#3f3212;
+  margin-left:90px;
 }
 .pingjia{
   width:100%;
   height:251px;
 }
 .pingjiaa{
-  width:890px;
+  width:690px;
   height:251px;
   margin:0 auto;
-  margin-top:300px;
+  margin-top:400px;
+}
+.pingjiaa h2{
+  margin-left:90px;
+  font-size:30px;
+  color:#3f3212;
 }
 .pingjiab{
-  margin-left:56px;
+  width:560px;
+  height:50px;
+  margin-left:90px;
   line-height: 30px;
+  color:#3f3212;
+}
+.tupian{
+  width:900px;
+  height:100px;
+  background-image: url("../images/c.jpg");
+  background-size: 100% 100%;
+}
+.content{
+  width:900px;
+  height:2300px;
+  background: #d6bd95;
+  margin:0 auto;
+}
+.content-l{
+  position: relative;
+   float:left;
+   width:145px;
+   height:751px;
+   background-image: url("../images/d.jpg");
+   background-size: 100% 100%;
+   left:60px;
+   top:180px;
+ }
+.content-ll{
+  float:left;
+  width:164px;
+  height:220px;
+  background-image: url("../images/aa.jpg");
+  background-size: 100% 100%;
+  margin-left:60px;
+  position: absolute;
+  left:-76px;
+  top:-248px;
+}
+.content-y{
+  float:left;
+  width:690px;
+  height:2300px;
 }

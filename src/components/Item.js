@@ -4,7 +4,7 @@ class Item extends React.Component{
     return (
       <div className="jianli">
        <div className="jianlia">
-         <h1>个人简历</h1>
+         <p className="tupian"></p>
        </div>
       </div>
     )
